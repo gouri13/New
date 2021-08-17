@@ -15,6 +15,7 @@ public class Hello {
 		float b=sc.nextFloat();
 		System.out.println(a+str+b);
 		
+		System.out.println("New Connection.");
 	}
 
 }
